@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmpezL9vXYc=",
+  "success": true,
+  "projectFilePath": "/Users/randylidstrom/Documents/Lab3AFi/ChatBackend/ChatBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/randylidstrom/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/randylidstrom/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
